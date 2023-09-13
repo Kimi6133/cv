@@ -10,7 +10,11 @@
    <h2>Parcour scolaire</h2>
    <h3>En possession d'un BAC général option Maths Physique et Sciences de l'Ingénieur</h3>
    <h2>Langues</h2>
-   
+   <h3>
+   <ul>Français</ul>
+   <ul>Anglais</ul>
+   <ul>Espagnol</ul>
+   </h3>
     
   </head>
  </body>
